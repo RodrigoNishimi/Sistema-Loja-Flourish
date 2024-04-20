@@ -1,0 +1,25 @@
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\bin\Debug\PrjLoja.exe.config
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\bin\Debug\PrjLoja.exe
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\bin\Debug\PrjLoja.pdb
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.csprojAssemblyReference.cache
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.Form1.resources
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.Properties.Resources.resources
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.csproj.GenerateResource.cache
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.csproj.CoreCompileInputs.cache
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.exe
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.pdb
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\bin\Debug\Guna.UI2.dll
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.Login.resources
+C:\Users\ronis\source\repos\PrjLoja\PrjLoja\obj\Debug\PrjLoja.csproj.CopyComplete
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\bin\Debug\PrjLoja.exe.config
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\bin\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\bin\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\bin\Debug\Guna.UI2.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.csprojAssemblyReference.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.Form1.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.Properties.Resources.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.csproj.GenerateResource.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjLoja\PrjLoja\obj\Debug\PrjLoja.frmMenu.resources

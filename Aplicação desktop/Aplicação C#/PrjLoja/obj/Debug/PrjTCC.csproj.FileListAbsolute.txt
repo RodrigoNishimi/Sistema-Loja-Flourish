@@ -1,0 +1,350 @@
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\PrjLoja.exe.config
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csprojAssemblyReference.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroProduto.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Form1.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenu.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmSobre.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Properties.Resources.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.GenerateResource.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.CopyComplete
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe.licenses
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csprojAssemblyReference.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroProduto.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConta.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Form1.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenu.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmSobre.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenuFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaPedidos.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmPainel.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Properties.Resources.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.GenerateResource.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe.licenses
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCCGit\PrjTCC\PrjLoja\obj\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\PrjLoja.exe.config
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroProduto.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConta.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Form1.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenu.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmSobre.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenuFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaPedidos.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmPainel.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Properties.Resources.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.GenerateResource.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe.licenses
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.CopyComplete
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmTrocarSenha.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelClientes.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelVendas.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\Guna.UI.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csprojAssemblyReference.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\Guna.UI.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConta.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmTrocarSenha.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelClientes.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelVendas.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenuFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaPedidos.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmPainel.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\PrjLoja.exe.config
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\PrjLoja.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Guna.UI.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csprojAssemblyReference.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroProduto.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConta.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmTrocarSenha.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelClientes.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelVendas.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmRelProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Form1.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenu.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmSobre.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadastroFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmCadFornecedor.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmAltFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaProd.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmMenuFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaFunc.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmConsultaPedidos.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.frmPainel.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.Properties.Resources.resources
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.GenerateResource.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe.licenses
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjTCC.csproj.CopyComplete
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.exe
+C:\Users\ronis\OneDrive\Área de Trabalho\ETESP\TCC\TCC Desktop\PrjTCC\PrjLoja\obj\Debug\PrjLoja.pdb
